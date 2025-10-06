@@ -50,6 +50,7 @@ This lab should take 5 to 10 minutes to complete.
 1. Select the **stacked squares** icon to copy the URL to your system clipboard.
 
 You're now ready to move on to creating the deployment job in Jenkins.
+It worked!
 
 <!-- FooterStart -->
 ---
